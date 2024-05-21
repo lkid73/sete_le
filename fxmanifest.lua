@@ -7,14 +7,14 @@ version "4.0"
 
 this_is_a_map "yes"
 
-data_file "FIVEM_LOVES_YOU_341B23A2F0E0F131" "popgroups.ymt"
-data_file "POPSCHED_FILE" "popcycle.dat"
-data_file "LOADOUTS_FILE" "loadouts.meta"
-data_file "AMBIENT_VEHICLE_MODEL_SET_FILE" "vehiclemodelsets.meta"
-
 files {
-	"popgroups.ymt",
-	"popcycle.dat",
-	"loadouts.meta",
 	"vehiclemodelsets.meta",
+	"popgroups.ymt",
+	"loadouts.meta",
+	"popcycle.dat",
 }
+
+data_file "AMBIENT_VEHICLE_MODEL_SET_FILE" "vehiclemodelsets.meta"
+data_file "DLC_POP_GROUPS" "popgroups.ymt"
+data_file "LOADOUTS_FILE" "loadouts.meta"
+data_file "POPSCHED_FILE" "popcycle.dat"
