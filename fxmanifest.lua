@@ -9,7 +9,7 @@ version "5.2.2"
 files {
 	"*.ymt",
 	"*.dat",
-	"*.meta",
+	"data/**/*.meta",
 }
 
 data_file "SCENARIO_POINTS_OVERRIDE_PSO_FILE" "sp_manifest.ymt"
