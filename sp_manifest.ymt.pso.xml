@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CScenarioPointManifest>
+    <VersionNumber value="0" />
+    <RegionDefs>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/alamo_sea</Name>
+            <AABB>
+                <min x="-263.914642" y="3471.966" z="-8.140715" />
+                <max x="2485.8374" y="4725.285" z="229.560028" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/alamo_view</Name>
+            <AABB>
+                <min x="-1897.87256" y="3101.516" z="33.5803642" />
+                <max x="-129.6176" y="4324.243" z="488.0826" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/alien_camp</Name>
+            <AABB>
+                <min x="2073.04736" y="3523.48218" z="30.5087662" />
+                <max x="2849.52075" y="4371.533" z="101.107513" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/alta</Name>
+            <AABB>
+                <min x="-178.785828" y="-544.882935" z="33.41553" />
+                <max x="458.016571" y="-166.666626" z="73.74313" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/altruist_camp</Name>
+            <AABB>
+                <min x="-1820.77124" y="4394.978" z="1.394959" />
+                <max x="-118.427521" y="5197.09473" z="296.835" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/banning</Name>
+            <AABB>
+                <min x="-648.0176" y="-2338.24927" z="4.371068" />
+                <max x="582.782166" y="-1421.21069" z="24.8253784" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/bolingbroke_penitentiary</Name>
+            <AABB>
+                <min x="1265.648" y="2346.0022" z="36.56355" />
+                <max x="1955.37378" y="2837.94" z="72.65112" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/braddock_tunnel</Name>
+            <AABB>
+                <min x="1717.12561" y="5006.27832" z="40.38188" />
+                <max x="3175.36572" y="6303.642" z="365.208282" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/burton</Name>
+            <AABB>
+                <min x="-698.4959" y="-391.634583" z="8.149755" />
+                <max x="-78.05049" y="66.8273544" z="58.13827" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/cape_catfish</Name>
+            <AABB>
+                <min x="2656.587" y="4033.15723" z="-15.5932713" />
+                <max x="4325.3125" y="5173.01074" z="773.003052" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/cassidy_creek</Name>
+            <AABB>
+                <min x="-1794.83972" y="3988.45581" z="1.380629" />
+                <max x="-753.954" y="4521.58154" z="174.844162" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/cemetery</Name>
+            <AABB>
+                <min x="3237.07349" y="-4674.096" z="113.103004" />
+                <max x="3270.3208" y="-4590.17773" z="118.089928" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/chamberlain_hills</Name>
+            <AABB>
+                <min x="-312.484467" y="-1803.67334" z="28.21084" />
+                <max x="-45.992424" y="-1399.18628" z="36.6370049" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/chumash</Name>
+            <AABB>
+                <min x="-3471.87622" y="135.8604" z="-3.72246" />
+                <max x="-2879.22778" y="1020.82404" z="30.59768" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/chumash_hills</Name>
+            <AABB>
+                <min x="-3289.53882" y="210.075928" z="3.603236" />
+                <max x="-1485.73425" y="2307.285" z="332.4383" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/chumash_plaza</Name>
+            <AABB>
+                <min x="-3558.5293" y="654.3875" z="-39.08478" />
+                <max x="-2967.118" y="1635.081" z="20.2990685" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/cluckin_bell</Name>
+            <AABB>
+                <min x="-454.328979" y="5989.87" z="29.8901081" />
+                <max x="75.62528" y="6630.45166" z="34.5059624" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/country_club</Name>
+            <AABB>
+                <min x="-3217.534" y="-269.748138" z="-16.15553" />
+                <max x="-2848.051" y="223.006653" z="15.1178436" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/countryside</Name>
+            <AABB>
+                <min x="260.95282" y="2294.4353" z="39.5070877" />
+                <max x="2222.73584" y="3145.07886" z="92.64104" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/countryside_construction</Name>
+            <AABB>
+                <min x="630.590759" y="1600.441" z="40.0148125" />
+                <max x="1396.52454" y="2671.97925" z="198.20369" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/countryside_ne</Name>
+            <AABB>
+                <min x="577.94165" y="-2190.84229" z="1.645161" />
+                <max x="2970.6582" y="6642.50439" z="355.7393" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/countryside_nw</Name>
+            <AABB>
+                <min x="-2901.22632" y="4269.688" z="-47.3051949" />
+                <max x="559.4662" y="6417.74072" z="422.8993" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/countryside_se</Name>
+            <AABB>
+                <min x="466.0648" y="1552.55481" z="31.0794468" />
+                <max x="3289.2063" y="4034.63477" z="252.600128" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/countryside_sw</Name>
+            <AABB>
+                <min x="-3224.804" y="792.8164" z="8.899463" />
+                <max x="345.709351" y="4405.324" z="353.0102" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/cypress_flats</Name>
+            <AABB>
+                <min x="605.3225" y="-2562.15942" z="7.814811" />
+                <max x="1139.04626" y="-1620.70325" z="56.13356" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/davis</Name>
+            <AABB>
+                <min x="-84.01027" y="-2013.47607" z="17.2273121" />
+                <max x="556.2163" y="-1333.499" z="36.7929459" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/davis_megamall</Name>
+            <AABB>
+                <min x="-144.012909" y="-2055.6814" z="13.0327873" />
+                <max x="198.575638" y="-1535.4917" z="29.4842644" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/del_perro</Name>
+            <AABB>
+                <min x="-1943.8772" y="-814.4836" z="10.3694687" />
+                <max x="-1316.9021" y="-275.9724" z="48.20332" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/del_perro_beach</Name>
+            <AABB>
+                <min x="-2527.1958" y="-1151.33777" z="-4.916913" />
+                <max x="-1420.40454" y="-465.8145" z="22.16492" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/del_perro_carpark</Name>
+            <AABB>
+                <min x="-1924.62622" y="-1181.37988" z="1.104083" />
+                <max x="-1286.044" y="-641.56665" z="23.1614227" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/del_perro_metro</Name>
+            <AABB>
+                <min x="-1523.25635" y="-532.4205" z="13.13198" />
+                <max x="-1325.61108" y="-417.1332" z="80.1273" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/del_perro_shops</Name>
+            <AABB>
+                <min x="-1566.88452" y="-889.527161" z="10.3114452" />
+                <max x="-1134.75122" y="-451.3324" z="34.65085" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/docklands</Name>
+            <AABB>
+                <min x="-1068.22009" y="-3903.22046" z="-7.65275" />
+                <max x="475.0579" y="-1470.16943" z="5.050188" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/donkey_punch_family_farm</Name>
+            <AABB>
+                <min x="-20.46709" y="6357.70361" z="-16.9377747" />
+                <max x="512.3574" y="7592.419" z="31.626133" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/downtown</Name>
+            <AABB>
+                <min x="-861.851" y="-1466.205" z="27.78532" />
+                <max x="465.6922" y="-328.0931" z="345.991669" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/downtown_construction_site</Name>
+            <AABB>
+                <min x="-403.828461" y="-1241.02209" z="17.6384735" />
+                <max x="100.695183" y="-781.737549" z="107.848366" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/downtown_vinewood</Name>
+            <AABB>
+                <min x="-32.6590538" y="-73.1835" z="66.64079" />
+                <max x="528.9139" y="486.046936" z="136.541473" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/east_los_santos</Name>
+            <AABB>
+                <min x="529.2878" y="-1639.78052" z="8.708453" />
+                <max x="1483.913" y="-164.793243" z="217.6035" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/east_ls_hills</Name>
+            <AABB>
+                <min x="1346.0647" y="-2869.02271" z="-33.3322945" />
+                <max x="3197.26538" y="984.675049" z="364.77182" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/east_vinewood</Name>
+            <AABB>
+                <min x="642.812866" y="-570.237" z="1.061654" />
+                <max x="1271.99731" y="43.1373749" z="82.93035" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/eclipse</Name>
+            <AABB>
+                <min x="-836.4655" y="118.1454" z="57.0884476" />
+                <max x="105.929085" y="449.745819" z="112.997742" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/el_burro_heights</Name>
+            <AABB>
+                <min x="856.313049" y="-2907.54956" z="-1.712338" />
+                <max x="1914.64172" y="-1524.52039" z="115.833328" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/elysian_island</Name>
+            <AABB>
+                <min x="-51.13555" y="-3512.33813" z="0" />
+                <max x="754.220459" y="-2382.12256" z="16.0925465" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/facility_main</Name>
+            <AABB>
+                <min x="246.237091" y="4690.791" z="-63.6000633" />
+                <max x="527.265564" y="4972.11768" z="-59.99947" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/farmers_market</Name>
+            <AABB>
+                <min x="1597.72656" y="4479.911" z="32.9389877" />
+                <max x="2009.4552" y="5223.76953" z="99.4961" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/government_facility</Name>
+            <AABB>
+                <min x="2386.97925" y="-1002.36523" z="-22.6682816" />
+                <max x="3466.86865" y="909.7826" z="108.113541" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/grande_senora_desert</Name>
+            <AABB>
+                <min x="-35.6294861" y="2637.462" z="32.9182472" />
+                <max x="2519.43335" y="3682.17358" z="1297.147" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/grapeseed</Name>
+            <AABB>
+                <min x="1706.63586" y="4599.76563" z="30.0198765" />
+                <max x="2763.13525" y="5211.92627" z="63.68648" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/great_ocean_highway</Name>
+            <AABB>
+                <min x="-3606.27661" y="316.006683" z="-49.19634" />
+                <max x="-951.8076" y="5502.88135" z="1139.8302" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/gwc_and_golfing_society</Name>
+            <AABB>
+                <min x="-1455.23767" y="-173.067139" z="36.5793076" />
+                <max x="-875.990662" y="251.703033" z="72.4000549" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/harmony</Name>
+            <AABB>
+                <min x="148.1937" y="2337.54028" z="39.93795" />
+                <max x="713.426636" y="2813.58472" z="62.60812" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/hawick</Name>
+            <AABB>
+                <min x="-120.713852" y="-270.189453" z="46.30115" />
+                <max x="565.5426" y="42.46987" z="87.47422" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/hookies_diner</Name>
+            <AABB>
+                <min x="-2468.612" y="4023.59131" z="-16.8401871" />
+                <max x="-1962.58777" y="4668.71631" z="62.6952934" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/humane_plant</Name>
+            <AABB>
+                <min x="3210.28369" y="3322.356" z="-24.679739" />
+                <max x="4391.343" y="4242.52344" z="239.325577" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/island_drug_fields</Name>
+            <AABB>
+                <min x="4357.971" y="-5667.24268" z="0.442734" />
+                <max x="5484.739" y="-4338.39551" z="67.04505" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/kortz_museum</Name>
+            <AABB>
+                <min x="-2589.39673" y="106.356781" z="89.8690948" />
+                <max x="-1896.56665" y="837.5458" z="282.6656" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/la_mesa</Name>
+            <AABB>
+                <min x="537.9618" y="-1685.77026" z="21.1457577" />
+                <max x="1072.22925" y="-927.2339" z="36.9482079" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/lago_zancudo</Name>
+            <AABB>
+                <min x="-2863.73364" y="2176.59375" z="-5.340501" />
+                <max x="-1161.2887" y="2923.76343" z="84.46991" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/lighthouse</Name>
+            <AABB>
+                <min x="2726.64429" y="5011.443" z="-65.30211" />
+                <max x="3744.21167" y="6580.374" z="243.8128" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/little_seoul</Name>
+            <AABB>
+                <min x="-800.000549" y="-1271.19092" z="8.146142" />
+                <max x="-378.243622" y="-761.667969" z="40.06092" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/little_seoul_apartments</Name>
+            <AABB>
+                <min x="-913.8921" y="-1116.245" z="10.8828268" />
+                <max x="-597.7606" y="-770.69165" z="32.9431076" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/little_seoul_metro</Name>
+            <AABB>
+                <min x="-756.170532" y="-840.651" z="9.895612" />
+                <max x="-400.73587" y="-532.9094" z="225.4415" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/little_seoul_park</Name>
+            <AABB>
+                <min x="-1067.39038" y="-898.9591" z="14.6204042" />
+                <max x="-746.4121" y="-574.9027" z="29.3142338" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/los_puerta</Name>
+            <AABB>
+                <min x="-844.0487" y="-1899.77734" z="0.600355" />
+                <max x="-220.245544" y="-1221.42249" z="31.08829" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/los_santos_freeway</Name>
+            <AABB>
+                <min x="409.606781" y="-703.4152" z="-3.984543" />
+                <max x="1904.08728" y="1462.52747" z="238.197" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/los_santos_international_airport</Name>
+            <AABB>
+                <min x="-2122.56348" y="-3835.2124" z="-25.1616478" />
+                <max x="-280.506226" y="-1775.21692" z="218.030914" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/lost_mc</Name>
+            <AABB>
+                <min x="872.887146" y="-222.692017" z="72.96307" />
+                <max x="1067.00769" y="-11.7947388" z="73.8880539" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/lsia_carpark1</Name>
+            <AABB>
+                <min x="-1055.968" y="-2648.03931" z="12.75656" />
+                <max x="-898.66394" y="-2398.69385" z="38.04004" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/lsia_carpark2</Name>
+            <AABB>
+                <min x="-968.220947" y="-2714.94678" z="12.9531107" />
+                <max x="-814.4769" y="-2591.73682" z="37.8228455" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/lsia_terminal</Name>
+            <AABB>
+                <min x="-1366.84216" y="-2809.98315" z="-9.323433" />
+                <max x="-530.295837" y="-1829.41064" z="19.708353" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/marina_drive</Name>
+            <AABB>
+                <min x="287.3432" y="3429.5144" z="30.6731415" />
+                <max x="1579.06775" y="3764.344" z="49.9582443" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/marlowe_drive</Name>
+            <AABB>
+                <min x="-1455.03516" y="533.8392" z="165.029526" />
+                <max x="392.066223" y="1173.53235" z="350" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/marlowe_valley</Name>
+            <AABB>
+                <min x="-2159.056" y="1759.79382" z="12.1208115" />
+                <max x="-1197.02734" y="2360.85327" z="215.421478" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/military_base</Name>
+            <AABB>
+                <min x="-3533.73315" y="2691.68628" z="-93.70396" />
+                <max x="-1507.552" y="3854.94116" z="100.45047" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/mirrorpark</Name>
+            <AABB>
+                <min x="821.4805" y="-888.8897" z="52.8844681" />
+                <max x="1326.66626" y="-339.107025" z="68.83558" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/mission_row</Name>
+            <AABB>
+                <min x="196.448761" y="-1183.968" z="-100.23024" />
+                <max x="534.5499" y="-824.6625" z="42.6917419" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/morningwood</Name>
+            <AABB>
+                <min x="-1617.0752" y="-509.894135" z="15.8596964" />
+                <max x="-1198.95752" y="-61.83365" z="53.4291039" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/mountchiliad</Name>
+            <AABB>
+                <min x="149.037491" y="4255.193" z="21.0143337" />
+                <max x="2557.942" y="6465.693" z="784.333435" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/mountjosiah</Name>
+            <AABB>
+                <min x="-458.776459" y="4470.50635" z="75.83007" />
+                <max x="509.8704" y="5983.987" z="796.914734" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/movie_studios</Name>
+            <AABB>
+                <min x="-1288.321" y="-697.9259" z="24.90129" />
+                <max x="-935.503845" y="-364.109" z="40.3579369" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/murietta_heights</Name>
+            <AABB>
+                <min x="740.5204" y="-1965.23181" z="25.41545" />
+                <max x="2001.03455" y="-825.5334" z="1156.79224" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/ng_planes</Name>
+            <AABB>
+                <min x="-3176.19263" y="1624.98169" z="31.8061771" />
+                <max x="2857.987" y="4260.42432" z="1759.47253" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/ng_planes_city</Name>
+            <AABB>
+                <min x="-657.2303" y="-1275.48865" z="3.167814" />
+                <max x="3127.671" y="1504.90747" z="1031.061" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/ng_planes_north</Name>
+            <AABB>
+                <min x="-5556.778" y="4293.448" z="40.0605469" />
+                <max x="3826.53687" y="7778.12061" z="1865.7832" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/ng_planes_south</Name>
+            <AABB>
+                <min x="-2537.097" y="-3394.169" z="12.9444361" />
+                <max x="1943.44763" y="-1388.85852" z="1031.24548" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/northcountrysidebeach</Name>
+            <AABB>
+                <min x="33.4125824" y="6397.94873" z="-31.47062" />
+                <max x="1417.284" y="7328.28467" z="116.457581" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/observatory</Name>
+            <AABB>
+                <min x="-1042.31555" y="900.9219" z="196.981628" />
+                <max x="292.798767" y="1969.235" z="398.752045" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/pacific_bluffs</Name>
+            <AABB>
+                <min x="-2687.56885" y="-585.526733" z="7.001978" />
+                <max x="-1471.19373" y="230.468109" z="149.995" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/pala_springs</Name>
+            <AABB>
+                <min x="-1059.59863" y="5356.063" z="-4.55976" />
+                <max x="-299.07608" y="6423.361" z="82.06423" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/paleto_bay</Name>
+            <AABB>
+                <min x="-1155.82886" y="6058.33838" z="-131.419052" />
+                <max x="367.537048" y="6967.368" z="39.4986153" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/pier</Name>
+            <AABB>
+                <min x="-2049.71362" y="-1424.12708" z="-8.133315" />
+                <max x="-1455.5918" y="-772.0315" z="22.7525616" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/pillbox_hill</Name>
+            <AABB>
+                <min x="-266.560364" y="-1139.88977" z="8.148654" />
+                <max x="405.2953" y="-423.2211" z="178.1748" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/pork_whistle_farm</Name>
+            <AABB>
+                <min x="-929.2127" y="1675.57007" z="27.7084026" />
+                <max x="697.6451" y="2998.51855" z="243.498184" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/port_of_south_los_santos</Name>
+            <AABB>
+                <min x="-569.608032" y="-2891.862" z="-16.4841" />
+                <max x="205.522369" y="-2247.17285" z="24.6323452" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/powerplant</Name>
+            <AABB>
+                <min x="2461.446" y="764.839661" z="-20.0022" />
+                <max x="3524.56226" y="2417.23242" z="160.537231" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/procopio_beach</Name>
+            <AABB>
+                <min x="1299.79114" y="6248.522" z="-42.8642" />
+                <max x="2854.07715" y="7022.29" z="151.923279" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/prologue</Name>
+            <AABB>
+                <min x="1434.9541" y="-5391.27441" z="112.843666" />
+                <max x="5314.65332" y="-3452.59521" z="1265.05969" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/puerto_del_sol</Name>
+            <AABB>
+                <min x="-1119.5957" y="-1621.33887" z="0.600091" />
+                <max x="-498.561523" y="-915.7197" z="21.3783131" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/race_course</Name>
+            <AABB>
+                <min x="767.50116" y="-133.171371" z="65.96994" />
+                <max x="1546.33923" y="538.23" z="223.196259" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/rancho</Name>
+            <AABB>
+                <min x="172.660629" y="-2128.927" z="14.2194386" />
+                <max x="605.9915" y="-1564.91528" z="32.447197" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/raton_canyon</Name>
+            <AABB>
+                <min x="-2467.013" y="4140.379" z="-35.1039658" />
+                <max x="-50.76216" y="5621.17041" z="312.504883" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/reservoir</Name>
+            <AABB>
+                <min x="1198.44849" y="-995.671143" z="50.1149521" />
+                <max x="2519.45972" y="1989.94482" z="292.227356" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/richman</Name>
+            <AABB>
+                <min x="-1856.60132" y="-208.768982" z="51.16238" />
+                <max x="-1073.10852" y="504.1669" z="111.888451" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/richman_glen</Name>
+            <AABB>
+                <min x="-2068.36182" y="176.771378" z="80.8830948" />
+                <max x="-1313.17419" y="1549.96753" z="198.4563" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/rockford_east</Name>
+            <AABB>
+                <min x="-885.011" y="-505.690155" z="28.2564754" />
+                <max x="-262.755" y="-51.0873871" z="58.1441536" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/rockford_hills</Name>
+            <AABB>
+                <min x="-1423.68628" y="-483.9521" z="9.0553" />
+                <max x="-290.1152" y="437.264557" z="222.268173" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/rockford_west</Name>
+            <AABB>
+                <min x="-1394.99414" y="-484.2602" z="13.1317453" />
+                <max x="-753.3058" y="203.4122" z="163.2643" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/route68</Name>
+            <AABB>
+                <min x="699.815857" y="2531.63672" z="36.28284" />
+                <max x="1557.16736" y="2876.482" z="261.243927" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/sanandreas_coast</Name>
+            <AABB>
+                <min x="-3131.39941" y="-623.8528" z="-11.8737288" />
+                <max x="-2038.02112" y="328.12265" z="183.69075" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/sanchianski</Name>
+            <AABB>
+                <min x="3377.12671" y="2997.3125" z="-26.7744331" />
+                <max x="4163.516" y="3358.86841" z="197.661163" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/sandy_shores</Name>
+            <AABB>
+                <min x="1454.68787" y="3512.44336" z="30.3550758" />
+                <max x="2098.311" y="4049.15015" z="43.4367828" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/sandy_shores_airfield</Name>
+            <AABB>
+                <min x="622.9546" y="2770.269" z="36.41155" />
+                <max x="1857.55188" y="3406.671" z="173.499557" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/sawmill</Name>
+            <AABB>
+                <min x="-1336.16663" y="4926.039" z="0.968599" />
+                <max x="-382.923157" y="5684.78174" z="193.54335" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/senora_freeway</Name>
+            <AABB>
+                <min x="1952.86292" y="310.544" z="-14.54958" />
+                <max x="4082.90356" y="5786.01" z="1164.537" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/senora_hills</Name>
+            <AABB>
+                <min x="256.134277" y="3193.925" z="32.0258522" />
+                <max x="1734.62622" y="3800.6665" z="98.75384" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/senora_quarry</Name>
+            <AABB>
+                <min x="2506.9917" y="2251.16724" z="-35.8112679" />
+                <max x="3793.75366" y="3153.56519" z="878.4953" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/slab_city</Name>
+            <AABB>
+                <min x="-64.42957" y="3433.46729" z="30.3153858" />
+                <max x="118.157211" y="3768.18" z="55.2073059" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/south_los_santos</Name>
+            <AABB>
+                <min x="-357.9139" y="-2032.66785" z="22.0288353" />
+                <max x="557.4948" y="-1112.92419" z="94.12113" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/south_vespucci</Name>
+            <AABB>
+                <min x="-1936.64087" y="-1983.2019" z="-6.601417" />
+                <max x="-661.2644" y="-1248.89563" z="18.777792" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/stables</Name>
+            <AABB>
+                <min x="936.0547" y="773.3813" z="85.83337" />
+                <max x="1658.3866" y="1666.67822" z="269.2852" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/stadium</Name>
+            <AABB>
+                <min x="-636.1896" y="-2168.30273" z="4.41182" />
+                <max x="-20.536335" y="-1532.33374" z="29.823576" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/stilt_houses</Name>
+            <AABB>
+                <min x="-1201.18262" y="570.7417" z="132.344" />
+                <max x="-101.421234" y="1018.0202" z="236.644577" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/strawberry</Name>
+            <AABB>
+                <min x="-214.57254" y="-1579.77649" z="28.05729" />
+                <max x="487.7219" y="-1191.12012" z="45.50951" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/terminal</Name>
+            <AABB>
+                <min x="684.8547" y="-3517.553" z="-26.5336132" />
+                <max x="2009.6062" y="-2848.817" z="24.2878723" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/textile_city</Name>
+            <AABB>
+                <min x="233.551575" y="-965.6466" z="-4.04732" />
+                <max x="585.6631" y="-442.986328" z="40.35065" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/ulsa</Name>
+            <AABB>
+                <min x="-2036.794" y="86.4359" z="56.732338" />
+                <max x="-1464.56848" y="416.568146" z="92.78751" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/unnamed</Name>
+            <AABB>
+                <min x="-937.6117" y="-2367.34766" z="-13.64609" />
+                <max x="-860.685852" y="-2256.93457" z="6.147654" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vespucci</Name>
+            <AABB>
+                <min x="-1381.7384" y="-1585.872" z="1.108786" />
+                <max x="-621.10614" y="-755.9922" z="117.92025" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vespucci_beach</Name>
+            <AABB>
+                <min x="-2209.89063" y="-1893.0603" z="-15.2268124" />
+                <max x="-1093.64612" y="-427.156616" z="75" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vespucci_beach_north</Name>
+            <AABB>
+                <min x="-1647.4231" y="-1719.214" z="-0.759512" />
+                <max x="-1163.418" y="-881.9718" z="12.0184727" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vespucci_beach_south</Name>
+            <AABB>
+                <min x="-1485.85767" y="-1848.1106" z="-1.3125" />
+                <max x="-1098.22437" y="-1012.20667" z="14.6157007" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vespucci_canals</Name>
+            <AABB>
+                <min x="-1252.764" y="-1271.43335" z="-1.655198" />
+                <max x="-711.580933" y="-778.1756" z="18.44133" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vespucci_coast</Name>
+            <AABB>
+                <min x="-3446.0957" y="-1315.25793" z="-22.54144" />
+                <max x="-665.9386" y="1570.64966" z="1049.40137" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vespucci_police_dept</Name>
+            <AABB>
+                <min x="-1284.76941" y="-1014.56134" z="1.130753" />
+                <max x="-833.0289" y="-549.287537" z="36.67548" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/vinewood</Name>
+            <AABB>
+                <min x="-652.626465" y="-184.019409" z="57.06498" />
+                <max x="547.6432" y="402.4025" z="162.038925" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vinewood_hills</Name>
+            <AABB>
+                <min x="-1498.37439" y="440.24884" z="86.1108246" />
+                <max x="408.163025" y="1148.40088" z="242.119019" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vinewood_park</Name>
+            <AABB>
+                <min x="69.89189" y="462.887146" z="117.856224" />
+                <max x="1224.86108" y="1790.67542" z="363.078247" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vinewoodhills_east</Name>
+            <AABB>
+                <min x="-937.688232" y="273.586456" z="92.4146042" />
+                <max x="460.648834" y="1499.32056" z="307.64032" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/vinewoodhills_west</Name>
+            <AABB>
+                <min x="-1729.31848" y="359.197479" z="69.677" />
+                <max x="-636.212952" y="935.375549" z="202.610611" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/west_vinewood</Name>
+            <AABB>
+                <min x="-729.641235" y="-84.68695" z="36.9820251" />
+                <max x="144.638855" y="251.434586" z="112.504005" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>compcache:/sete_le_5_0/windfarm</Name>
+            <AABB>
+                <min x="1832.02527" y="312.199341" z="18.1804218" />
+                <max x="2681.22754" y="2836.15381" z="228.6428" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/wreck</Name>
+            <AABB>
+                <min x="3014.19653" y="-371.0363" z="-30.18555" />
+                <max x="3471.29272" y="-31.369833" z="4.530613" />
+            </AABB>
+        </Item>
+        <Item type="CScenarioPointRegionDef">
+            <Name>platform:/levels/gta5/scenario/zancudo_river</Name>
+            <AABB>
+                <min x="-1393.11316" y="2442.43579" z="0.042026" />
+                <max x="393.339783" y="3415.46484" z="114.201355" />
+            </AABB>
+        </Item>
+    </RegionDefs>
+    <Groups>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_61626F40</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5F4B5FE1</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5869864A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_DD7589D6</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>army_guard</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_01D14DBA</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>blimp</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_AB827B87</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_19DF28A0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_85F17275</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_EE111474</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_CE7B593D</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5E9E7946</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5E9E7946</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_AAF6594C</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_AAF6594C</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_E6540993</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_E6540993</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_6524173E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_6524173E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3A8B7B5E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B9C6D493</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_749AB963</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_22C7CBD2</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_654E4FAB</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_74F7C99B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_55278D8B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_547E9F9F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_8F3B0D58</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_42BF4DC0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_60704D7F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B3869C10</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5CFB45C1</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F7DD8BBC</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_FA96DECA</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_FC82B3A8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_FFCB873E</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_0C1D6013</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_0C1D6013</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3802F433</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3802F433</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_233F9F33</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_233F9F33</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_37AA5009</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_37AA5009</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3E594FD8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3E594FD8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5151EB6B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5151EB6B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B13074CD</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B13074CD</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_59018279</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_59018279</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_289CE428</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_37D90F32</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_1D6BCC6F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_C685E437</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_BBA0A8BA</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_91BA304B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_E31ED66B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_BC76A52E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_4BC8EB4D</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_EEC1739F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5CF6BB22</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F64EFE00</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F776AF18</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_C621536E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_96AC6ED6</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_27765C92</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_346019D2</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_6E2DAB0C</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_6E369306</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5E672622</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_62A95BE9</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_AB2D4374</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_29733357</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_94D31658</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_A2B97EFC</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_414129C5</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_E3FD6813</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_359B38A5</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_1281B014</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_2FB43E32</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_10A8B8D1</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_46F4AF81</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F1412A3C</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_045C8F9F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_83C310E6</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_BC9820C8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3E28D3A4</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_67392C88</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_2DDC51D7</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_8703EDA6</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_C380A1CE</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_36DB8FB0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D40FFF82</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_49A19444</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_DA965477</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_4A3CD835</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_04E3D970</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_BECB982A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5F8AC8B0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D8A7F780</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>facility_cannon</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_1D84BB46</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_0BC697CA</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F909F251</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_0C6031BE</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_FC835FE6</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_FDBC6258</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5FB51C39</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>gentry_mannor</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_54056728</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_658B96D8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B334DDEC</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_C1EB5DDA</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3DB20BCA</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_9D9D68B5</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5E13C4A7</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_28A6793F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_73FE40B6</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_BA2E54DE</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_57B5C21C</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_22B4D47E</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_EC89495A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_7841FD18</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_2109111E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_6D20BFC9</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B2EB259F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_4DAE5D26</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_DAF17910</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B4D23DA9</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_49954871</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_31E40F53</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_8F05377F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_068FDE25</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_2808044B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_982EAA65</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_35AE21B0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_4422F52F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_DCD70482</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_86DCF75E</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_78497E33</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_61B3F78E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_99B929BC</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_EA9374AC</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_39C0CB0E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5F038AA9</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_93DC7BE0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_AD762F13</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>ng_planes</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_642DA066</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_26AECF7F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F075D1F8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_87AE3530</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_7C7A84F0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_289760C8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_56760D1A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_9273F4D2</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_53A4C68A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_0F8E5FE5</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_E26DF580</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_0DE34C2C</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_1E98457E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_613B1DEA</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D84260F3</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_7C74CEC3</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3C55BFA8</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_CA665DDE</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_9251BA9B</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_77783978</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_68369AF5</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_92E3F04F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_853554F2</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_C73CD908</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_339D0D32</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B4E1E3E0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_9A203AA0</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>quarry</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_6AE155C3</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_10E31D86</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B9F6D3AF</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D27CDC90</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>rampage1</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_DABD949A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_1CFFF25A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_AD108C44</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_107B0A51</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_56B31B5A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_6021A57B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_164FDEEB</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_1EC5618A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_157C6BE4</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_52EA9B63</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D79AA2B7</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_7FAA49E5</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_E2B2D259</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_7C2182A3</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_BF5BCDE9</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_50E89A4C</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D102965F</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_44201053</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_02E32A02</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_15EBFD60</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_392FDBF4</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B5E0D1D7</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_C24A300E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_15F1EAD4</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_11F53D33</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_CD26ED01</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_E68497C9</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_0C057CF4</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3AC799C5</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F7C042CA</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_9082C9EF</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F271E813</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_90678BBC</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_853AA394</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_BDF0E6CE</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_CADA9B8C</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_ABAB4243</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_24464278</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_C0A926CA</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D5AA494E</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D2DDF752</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_2AFC41C1</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_9286F9B1</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_A56BC132</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_9A0F97DF</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_A86698F2</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_44B7F948</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_C5A31791</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_A3CF78B1</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_A89787B2</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_99FE4281</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_380B92B8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D03F2D5A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_01BDC128</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_B4222AB8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_3E0D13F7</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_F3FBE800</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_E8207837</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_D0115167</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_80B19D80</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_4DC0619B</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_2542149A</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_02CB4CD8</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_5827773D</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_BA2CA476</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_677C9A96</Name>
+            <EnabledByDefault value="false" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_715959DB</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+        <Item type="CScenarioPointGroup">
+            <Name>hash_917A7100</Name>
+            <EnabledByDefault value="true" />
+        </Item>
+    </Groups>
+    <InteriorNames>
+        <Item>ap1_01_b_lsiaterm_subway</Item>
+        <Item>ap1_03_lisapark_subway</Item>
+        <Item>bh1_rd2_portola_subway</Item>
+        <Item>bt1_04_burton_subway</Item>
+        <Item>bt1_04_carpark</Item>
+        <Item>dt1_02_carpark</Item>
+        <Item>dt1_03_carpark</Item>
+        <Item>dt1_05_carpark</Item>
+        <Item>kt1_03_carpark_int</Item>
+        <Item>kt1_04_roadtunnel_int</Item>
+        <Item>kt1_09_seoul_subway</Item>
+        <Item>metro_30</Item>
+        <Item>metro_newwalk1</Item>
+        <Item>metro_newwalk2</Item>
+        <Item>metro_newwalk3</Item>
+        <Item>metro_newwalk4</Item>
+        <Item>metro_newwalk5</Item>
+        <Item>metro_newwalk6</Item>
+        <Item>hash_66CF247A</Item>
+        <Item>hash_055B8BE1</Item>
+        <Item>metro_station_3_seoul</Item>
+        <Item>metro_t_end</Item>
+        <Item>metro_t_end_30</Item>
+        <Item>metro_t_stair</Item>
+        <Item>metro_topen_step</Item>
+        <Item>po1_08_warehouseint1</Item>
+        <Item>sm_15_delperro_subway</Item>
+        <Item>v_31_newtun2</Item>
+        <Item>v_31_newtun3</Item>
+        <Item>v_31_newtun4</Item>
+        <Item>v_31_newtunnel1</Item>
+        <Item>v_31_tun_01</Item>
+        <Item>v_31_tun_02</Item>
+        <Item>v_31_tun_03</Item>
+        <Item>v_31_tun_04</Item>
+        <Item>v_31_tun_05</Item>
+        <Item>v_31_tun_06</Item>
+        <Item>v_31_tun_07</Item>
+        <Item>v_31_tun_08</Item>
+        <Item>v_31_tun_09</Item>
+        <Item>v_31_tun_10</Item>
+        <Item>v_70_bikerbar</Item>
+        <Item>v_apart_midspaz</Item>
+        <Item>v_apartment_high</Item>
+        <Item>v_bahama</Item>
+        <Item>v_bank</Item>
+        <Item>v_bank4</Item>
+        <Item>v_barbers</Item>
+        <Item>v_carmod2</Item>
+        <Item>v_carmod3</Item>
+        <Item>v_carshowroom</Item>
+        <Item>v_cinema</Item>
+        <Item>v_clotheshi</Item>
+        <Item>v_clotheslo</Item>
+        <Item>v_clothesmid</Item>
+        <Item>v_factory1</Item>
+        <Item>v_factory2</Item>
+        <Item>v_factory4</Item>
+        <Item>v_fib01</Item>
+        <Item>v_firedept</Item>
+        <Item>v_gasstation</Item>
+        <Item>v_gen_liquor</Item>
+        <Item>v_genbank</Item>
+        <Item>v_gun</Item>
+        <Item>v_gun2</Item>
+        <Item>v_hanger</Item>
+        <Item>v_hicksbar</Item>
+        <Item>v_jewel2</Item>
+        <Item>v_methlab</Item>
+        <Item>v_office_lobby</Item>
+        <Item>v_policehub</Item>
+        <Item>v_rockclub</Item>
+        <Item>v_sheriff</Item>
+        <Item>v_sheriff2</Item>
+        <Item>v_shop_247</Item>
+        <Item>v_stadium</Item>
+        <Item>v_strip3</Item>
+        <Item>v_studio_lo</Item>
+        <Item>v_sweat</Item>
+        <Item>v_tattoo</Item>
+        <Item>v_tower</Item>
+        <Item>v_trailer</Item>
+        <Item>v_trevors</Item>
+        <Item>vbca_tunnel2</Item>
+        <Item>xm_x17dlc_int_02</Item>
+    </InteriorNames>
+</CScenarioPointManifest>
