@@ -1,7 +1,7 @@
 # Skysder's Enhanced Traffic Experience: Lite Edition
 Here is the FiveM version of [Skysder's Enhanced Traffic Experience: Lite Edition](https://www.gta5-mods.com/misc/skysder-s-enhanced-traffic-experience)
 # Bugs
-- None
+- vehiclemodelsets.meta file is making the game crashes, disable it in fxmanifest.lua if it happens to you.
 
 Any bugs can be reported to my [Discord](https://discord.com/invite/MCK7wFwV3q)
 # Installation
